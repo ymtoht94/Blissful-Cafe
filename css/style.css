@@ -84,6 +84,8 @@ header{
     .Linux{
         background-color: #222;
         color: #ddd;
+        h1{
+          color: #fff;  
     }
     .contact{
         background-color: #222;
